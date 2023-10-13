@@ -1,0 +1,1 @@
+Design a machine where you can calculated Binary,octal,hexadecimal number and create only on eobject and if only one object changes state ;all it's dependents are notified and upadated automatically.
