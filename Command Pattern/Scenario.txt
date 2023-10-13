@@ -1,0 +1,2 @@
+ Tracking the Educational Progress of a Student
+Suppose you have a student named John who is progressin through different stages of education, such as passing the Secondary School Certificate (SSC), Higher Secondary Certificate (HSC), and finally completing a Bachelor's degree.The code will allow you to track the educational progress of multiple students by adding their degrees to the list andthen submitting them as needed.
